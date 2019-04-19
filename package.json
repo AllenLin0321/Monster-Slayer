@@ -1,0 +1,19 @@
+{
+  "name": "monster-slayer",
+  "version": "1.0.0",
+  "description": "Monster Slayer",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AllenLin0321/Monster-Slayer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AllenLin0321/Monster-Slayer/issues"
+  },
+  "homepage": "https://github.com/AllenLin0321/Monster-Slayer#readme"
+}
